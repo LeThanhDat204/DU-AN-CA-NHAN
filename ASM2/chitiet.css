@@ -1,0 +1,175 @@
+
+header ul.menu li {
+    position: relative;
+    display: inline;
+    font-size: 13px;
+    font-weight: bolder;
+}
+header ul.menu li a{
+    position: relative;
+    display: inline-block;
+    line-height: 60px;
+    padding: 0 5px;
+    color: black;
+    text-decoration: none;
+}
+header ul.menu li a:hover{
+    color: grey;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+nav{
+    background-color: white;
+    text-align: center;
+    color: #666;
+    font-size: 1.4rem;
+    cursor: pointer;
+    text-rendering: optimizeLegibility;
+    float: none;
+    display: block;
+    width: 100%;
+}
+h1{
+    text-align: center !important;
+    font-size: 20px;
+    margin-bottom: 0;
+    line-height: 1.3;
+    font-weight: 300;
+}
+.logo{
+    padding-right: 130px;
+}
+.mm{
+    padding-left: 40px;
+}
+.rr{
+    padding-right: 40px;
+}
+.chitiet > aside{
+    min-width: 323px;
+    width: 50%;
+    background-color:white;
+    float: left;
+    height: 1400px;  
+}
+.content3{
+    width: 50%;
+    background-color:white;
+    float: right;
+    height: 1400px;
+}
+.css{
+    float: left;
+    margin: 100px;
+} 
+button{
+    color: white;
+    border-radius: 30px;
+    box-shadow: grey;
+    box-sizing: border-box;
+    margin-top: 50px;
+    font-size: 30px;
+    background-color: red;
+
+}
+button:hover{
+    color: grey;
+}
+.css>h1{
+    padding-right: 300px;
+    text-align: center;
+}
+.mt{
+font-size: 50px;
+padding-left: 10px;
+
+}
+.mota{
+    font-size: 20px;
+    line-height: 30px;
+    padding-left: 60px;
+}
+aside ul img{
+    padding-left: 60px;
+}
+.moinhat{
+    margin: 0 60px;
+    padding-top: 50px;
+}
+.sp22 p{
+    display: block;
+    text-align: center;
+    margin: 0 70px;
+}
+.dkk{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.dk>h1{
+    font-size: 30px;
+    margin-top: 100px;
+}
+.dk>p{
+    font-size: 20px;
+    
+}
+
+.row{
+    float: left;
+    width: 100%;
+    margin-bottom: 20px;
+}
+footer{
+    float: left;
+    width: 100%;
+    background-color: #333;
+    min-height: 150px;
+}
+.boxcenter1{
+    width: 50%;
+    margin: 0 auto;
+}
+.boxfooter1{
+    width: 21%;
+    float: left;
+    
+    
+}
+.boxfooter2{
+    width: 21%;
+    float: left;
+   
+}
+.boxfooter3{
+    width: 50%;
+    float: left;
+       
+}
+.textcenter{
+    text-align: center;
+}
+.colorc{
+    color: #ccc;
+}
+.mrb10{
+    margin-bottom: 10px;
+}
+.mrb30{
+    margin-bottom: 30px;
+}
+.mrr2{
+    margin-right: 4%;
+}
+.boxcenter1>img{
+    font-size: 5px;
+}
+.add{
+    font-size: 13px;
+}.udl{
+    text-decoration: underline;
+}
+   

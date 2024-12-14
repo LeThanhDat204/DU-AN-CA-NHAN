@@ -1,0 +1,193 @@
+.container{
+    position: relative;
+   
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+#page{
+    width: 100%;
+    margin: 0 auto;
+}
+.company-info{
+    text-align: center;
+    color: black;
+    padding: 100px;  
+}
+button{
+    width: 197px;
+    height: 20px;
+}
+header ul.menu li {
+    position: relative;
+    display: inline;
+    font-size: 13px;
+    font-weight: bolder;
+}
+header ul.menu li a{
+    position: relative;
+    display: inline-block;
+    line-height: 60px;
+    padding: 0 5px;
+    color: black;
+    text-decoration: none;
+}
+header ul.menu li a:hover{
+    color: grey;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+nav{
+    background-color: white;
+    text-align: center;
+    color: #666;
+    font-size: 1.4rem;
+    cursor: pointer;
+    text-rendering: optimizeLegibility;
+    float: none;
+    display: block;
+    width: 100%;
+}
+
+h1{
+    text-align: center !important;
+    font-size: 100px;
+    margin-bottom: 0;
+    line-height: 1.3;
+    font-weight: 300;
+}
+
+
+#page{
+    width: 100%;
+    margin: 0 auto;
+}
+.logo{
+    padding-right: 130px;
+}
+nav{
+    background-color:white;
+    text-align: center;
+    color: #666;
+    font-size: 1.5rem;
+    cursor: pointer;
+    float: none;
+    display: block;
+    width: 100%;
+}
+.content{
+    width: 100%;
+    border-bottom: solid black;
+}
+.product > aside{
+    min-width: 323px;
+    width: 20%;
+    background-color:white;
+    float: left;
+    height: 1709px;
+   
+    
+}
+.th{
+    padding-left: 50x;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.text{
+    padding-left: 30px;
+    text-align: center;
+}
+.pr{
+    margin-bottom: 30px;
+    font-size: 30px;
+    
+}
+.prr{
+    font-size: 50px;
+    text-align: center;
+}
+.content2{
+    width: 77%;
+    background-color: white;
+    float: right;
+    height: 1709px;
+}
+.product{
+    display: flex;
+    
+}
+.product p{
+    text-align: center;
+    display: block;
+    margin-bottom: 25px;
+}
+.dk{
+    text-align: center;
+    margin-top: 50px;
+    padding-right: 250px;
+}
+button {
+    width: 197px;
+    height: 50px;
+}
+.dk h1{
+    font-size: 40px
+}
+.dk p{
+    font-size: 20px;
+    margin-top: 40px;
+    
+}
+footer{
+    float: left;
+    width: 100%;
+    background-color: #333;
+    min-height: 150px;
+}
+.boxcenter1{
+    width: 50%;
+    margin: 0 auto;
+}
+.boxfooter1{
+    width: 21%;
+    float: left;
+    
+    
+}
+.boxfooter2{
+    width: 21%;
+    float: left;
+   
+}
+.boxfooter3{
+    width: 50%;
+    float: left;
+       
+}
+.textcenter{
+    text-align: center;
+}
+.colorc{
+    color: #ccc;
+}
+.mrb10{
+    margin-bottom: 10px;
+}
+.mrb30{
+    margin-bottom: 30px;
+}
+.mrr2{
+    margin-right: 4%;
+}
+.boxcenter1>img{
+    font-size: 5px;
+}
+.add{
+    font-size: 13px;
+}.udl{
+    text-decoration: underline;
+}
